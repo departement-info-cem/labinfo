@@ -114,7 +114,7 @@ Explication:
   - `AllowUpgradesWithUnsupportedTPMOrCPU`: Windows peut être installé même sur du matériel non supporté
   - `PreventDeviceEncryption`: Indique explicitement à Windows de **ne pas** activer BitLocker
   - `BypassNRO`: Permet l'installation même lorsque la machine est déconnectée d'Internet
-  - AUOptions et NoAutoUpdate: Désactive les mises à jour automatiques en arrière-plan
+  - `AUOptions` et `NoAutoUpdate`: Désactive les mises à jour automatiques en arrière-plan
 
 
 ### Étape 3: Production du nouvel ISO
