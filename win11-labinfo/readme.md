@@ -124,7 +124,7 @@ Dans le menu Démarrer, démarrer la console de l'ADK. Elle se nomme "**Environn
 Puis lancez la commande suivante:
 
 ```
-oscdimg -u1 -pEF -m -h -bc:\temp\Win11\iso\efi\microsoft\boot\efisys.bin c:\temp\Win11\iso c:\temp\Win11\Windows_11_24H2_FR_NoTPM_NoAU.iso
+oscdimg -u1 -pEF -m -h -bc:\temp\Win11\iso\efi\microsoft\boot\efisys.bin c:\temp\Win11\iso c:\temp\Win11\Win11_24H2_FR_NoAutoupdate_NoBitlocker.iso
 ```
 
 Explication:
