@@ -140,7 +140,7 @@ On peut ensuite tester le ISO sur une VM et, si ça fonctionne, le téléverser 
 
 Si possible, suivre la nomenclature suivante:
 
-`Windows_11_<Release>_<Langue>_NoTPM_NoAU.ISO`
+`Win11_<Release>_<Langue>_NoAutoupdate_NoBitlocker.iso`
 
 
 ## Support
